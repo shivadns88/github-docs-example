@@ -75,7 +75,7 @@ RuntimeError: This is a custom error message
 - Here is a grinning Emoji - :grinning:
 - Here is an angry Emoji - :angry:
 - Here is a cloud Emoji - :cloud:
-- Here is a cheatsheet to Emojis - [Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
+
 
 ##Hell, I can use tables too.
 
@@ -84,7 +84,7 @@ RuntimeError: This is a custom error message
 | git status   | git status     | git status    |
 | git diff     | git diff       | git diff      |
 
-- I made a cheat sheet using this link. [GitHub Markdown Tables Cheat Sheet](https://www.tablesgenerator.com/markdown_tables) :smile:
+- I made a cheat sheet using this link. Check [^4] for the same.  :smile:
 
 | S.No 	| Name  	| City      	| State 	| Country 	|
 |------	|-------	|-----------	|-------	|---------	|
@@ -93,6 +93,17 @@ RuntimeError: This is a custom error message
 | 3    	| Ghost 	| NorthYork 	| ON    	| Canada  	|
 
 ![Photo of the terraform image](assets/Sample_terraform_Image.png)
+
+## Finally, I am making footnotes
+
+- Here is a cheatsheet to Emojis - [Github emoji cheat sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md#smileys--emotion)
+- Here is a simple footnote[^1].
+- A footnote can also have multiple lines[^2].
+
+[^1]: My reference.
+[^2]: To add line breaks within a footnote, prefix new lines with 2 spaces.
+  This is a second line.
+[^4]: [GitHub Markdown Tables Cheat Sheet](https://www.tablesgenerator.com/markdown_tables)
 
 ##Reference Section:
 - [GitHub Flavoured Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
