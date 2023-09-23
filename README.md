@@ -44,6 +44,11 @@ print code
 - See below
 <img width="500px" src="https://github.com/shivadns88/github-docs-example/assets/145219091/def3a55d-d790-48f7-a69f-8092c522d358" />
 
+- I can do the same in below format when I drop the image in a folder within the repo.
+- See below.
+
+<img width="500px" src="assets/Sample_terraform_Image.png" />
+
 - Good Cloud Engineers use clodeblocks to show errors that appear in the console.
 - Here is a sample of using a codeblock for an error that appears in bash
 
@@ -86,6 +91,8 @@ RuntimeError: This is a custom error message
 | 1    	| Shiva 	| Richmond  	| ON    	| Canada  	|
 | 2    	| Asha  	| Toronto   	| ON    	| Canada  	|
 | 3    	| Ghost 	| NorthYork 	| ON    	| Canada  	|
+
+![Photo of the terraform image](assets/Sample_terraform_Image.png)
 
 ##Reference Section:
 - [GitHub Flavoured Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
